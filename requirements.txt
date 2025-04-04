@@ -1,0 +1,6 @@
+pyaudio  
+wave  
+numpy
+requests
+python-dotenv
+pydub
